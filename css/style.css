@@ -1,0 +1,109 @@
+html,
+body {
+	height: 100%;
+}
+body {
+	background-image: url('../img/lightpaperfibers.png');
+}
+
+#wrapper {
+	padding-top: 60px;
+}
+
+#footer {
+	position:absolute;
+	bottom:0;
+	height: 50px;
+	width:100%;
+	background-color: #eee;
+	font-size: 80%;
+}
+
+@media (max-width: 767px) {
+	#footer {
+	  margin-left: -20px;
+	  margin-right: -20px;
+	  padding-left: 20px;
+	  padding-right: 20px;
+	}
+}
+
+.brand {
+	font-family: 'linux_libertine_oregular', serif;
+	font-weight:bold;
+}
+
+.title {
+	font-size:160%;
+}
+
+.subtitle {
+	font-family: 'linux_libertine_oregular', serif;
+	font-style:italic;
+	color : #eee;
+	max-width:50%;
+	float:right;
+}
+
+#itemsListWrapper {
+	margin-top: 20px;
+	position: relative;
+	margin: 15px 0;
+	padding: 39px 19px 14px;
+	background-color: white;
+	border: 1px solid #DDD;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+}
+#itemsList  {
+	-moz-column-count: 3;
+	-moz-column-gap: 20px;
+	-webkit-column-count: 3;
+	-webkit-column-gap: 20px;
+	column-count: 3;
+	column-gap: 20px;
+}
+
+.okcell {
+	background-color:#d9edf7;
+}
+
+.disabled {
+    background-color:#eee;
+}
+
+.okline, .okcolumn, .okdiag1, .okdiag2 {
+	background-color:#dff0d8;
+}
+
+.fullgrid {
+	background-color:#faf8cc;
+}
+
+table :hover {
+	cursor:pointer;
+}
+
+td {
+	width:20%;
+	text-align: center !IMPORTANT;
+	vertical-align: middle !IMPORTANT;
+}
+
+
+.centered {
+	text-align:center !IMPORTANT;
+}
+
+@font-face {
+    font-family: 'linux_libertine_oregular';
+    src: url('../font/linlibertine_re-4.7.3-webfont.eot');
+    src: url('../font/linlibertine_re-4.7.3-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/linlibertine_re-4.7.3-webfont.woff') format('woff'),
+         url('../font/linlibertine_re-4.7.3-webfont.ttf') format('truetype'),
+         url('../font/linlibertine_re-4.7.3-webfont.svg#linux_libertine_oregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

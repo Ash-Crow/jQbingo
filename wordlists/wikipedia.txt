@@ -1,0 +1,39 @@
+#Titre (commence par "@")
+@Wikibingo
+#Sous-Titres (commencent par ":")
+:On ne le sait pas assez, mais nous avons quand même un métier à risques.
+#Éléments
+Inclusionnistes
+Suppressionnistes
+Page à supprimer
+Fin de la civilisation occidentale
+Menace de procès
+Marronier
+Arbitrage
+Blocage
+Bannissement
+Requêtes aux admins
+Durée du mandat d’admin
+N'hésitez pas !
+Licence libre
+Ici on parle français !
+{{contre}}
+{{pour}}
+Conflit de modification
+Typographie
+Infobox
+IP
+Renommage
+Sources
+Attaque personnelle
+Blocage
+Bannissement
+Wikipédia
+Commons
+Wikidata
+Wikimedia Foundation
+Wikisource
+Wiktionary
+Wikivoyage
+Wikinews
+Ne mordez pas les nouveaux
