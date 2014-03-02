@@ -50,7 +50,7 @@ Resources :
     
     <div id="footer">
       <div class="container">
-        <p class="muted credit centered">Site créé par Sylvain Boissel (<i class="icon-twitter"></i> <a href="http://twitter.com/sboissel">Twitter</a>)</p>
+        <p class="muted credit centered">Site créé par Sylvain Boissel (<i class="icon-twitter"></i> <a href="http://twitter.com/sboissel">Twitter</a>) – <a href="http://ashtree.eu/wordpress/jqbingo/" alt="À propos">À propos</a> </p>
       </div>
     </div>
 
@@ -264,7 +264,7 @@ Resources :
 			
 		});
 	</script>
-	<!-- Piwik -> 
+	<!-- Piwik --> 
 	<script type="text/javascript">
 		var pkBaseURL = (("https:" == document.location.protocol) ? "https://ashtree.eu/piwik/" : "http://ashtree.eu/piwik/");
 		document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
