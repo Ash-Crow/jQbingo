@@ -17,7 +17,7 @@ Resources :
     <meta charset="utf-8">
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
     <link href="css/font-awesome.min.css" rel="stylesheet" media="screen">
-    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <script src="https://code.jquery.com/jquery-latest.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <link href='css/style.css' rel='stylesheet' type='text/css'>
   </head>
@@ -26,7 +26,7 @@ Resources :
 		  <div class="navbar-inner">
 				<div class="container">
 				  <span class="subtitle"></span>
-				  <a class="brand" href="http://ashtree.eu/bingo/"><span class="title">jQBingo</span></a>
+				  <a class="brand" href="https://ash.bzh/bingo/"><span class="title">jQBingo</span></a>
 				  <div class="nav-collapse collapse"></div>
 				</div>
 		  </div>
@@ -50,7 +50,7 @@ Resources :
     
     <div id="footer">
       <div class="container">
-        <p class="muted credit centered">Site créé par Sylvain Boissel (<i class="icon-twitter"></i> <a href="http://twitter.com/sboissel">Twitter</a>) – <a href="http://ashtree.eu/wordpress/jqbingo/" alt="À propos">À propos</a> </p>
+        <p class="muted credit centered">Site créé par Sylvain Boissel (<i class="icon-twitter"></i> <a href="https://twitter.com/sboissel">Twitter</a>) – <a href="https://blog.ashtree.eu/jqbingo/" alt="À propos">À propos</a> </p>
       </div>
     </div>
 
@@ -268,7 +268,7 @@ Resources :
 	</script>
 	<!-- Piwik --> 
 	<script type="text/javascript">
-		var pkBaseURL = (("https:" == document.location.protocol) ? "https://ashtree.eu/piwik/" : "http://ashtree.eu/piwik/");
+		var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.ash.bzh/" : "https://piwik.ash.bzh/");
 		document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
 	</script><script type="text/javascript">
 		try {
@@ -276,7 +276,7 @@ Resources :
 		piwikTracker.trackPageView();
 		piwikTracker.enableLinkTracking();
 		} catch( err ) {}
-	</script><noscript><p><img src="http://ashtree.eu/piwik/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+	</script><noscript><p><img src="https://piwik.ash.bzh/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
 	<!-- End Piwik Tracking Code -->
   </body>
 </html>
